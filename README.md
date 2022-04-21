@@ -17,7 +17,7 @@ The main program is stored in memory starting at address 4000h. Interrupt Vector
 | 4   | 1000h   | KP1.2  |
 | 1   | 1500h   | KP2.1  |
 | 0   | 2000h   | DMA1.1 |
-| 2   | 2500x   | DMA1.2 |
+| 2   | 2500h   | DMA1.2 |
 | 5   | 3000h   | DMA1.4 |
 
 ```
